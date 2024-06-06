@@ -1,4 +1,4 @@
-# GenStack-App-BabySteps
+# GenStack-App
 
 This app was built based on an [AWS PartyRock](https://partyrock.aws/) app, using the community project [GenStack](https://genstack.ssennett.net/).
 
